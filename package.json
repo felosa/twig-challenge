@@ -1,0 +1,15 @@
+{
+  "name": "twig-challenge",
+  "version": "1.0.0",
+  "description": "Challenge for Twig",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Fernando Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
